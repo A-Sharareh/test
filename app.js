@@ -11,3 +11,7 @@ const getMe = (user) =>{
 const addCourse =(course) => {
     return true;
 };
+
+const test=() => {
+    return false ;
+};
