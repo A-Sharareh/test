@@ -15,3 +15,7 @@ const addCourse =(course) => {
 const test=() => {
     return false ;
 };
+
+const setTicket = () => {
+    return true;
+};
