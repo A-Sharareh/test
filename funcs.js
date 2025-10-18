@@ -7,3 +7,8 @@ const likePost = () => {
 const dislikePost = () => {
   return False
 }
+
+const getMe = (user) => {
+  return user.name
+}
+
