@@ -55,5 +55,15 @@ Unordered:
 
 
 ## Images
-![minion](https://octodex.github.com/images/minion.png)
 ![image](https://octodex.github.com/images/dojocat.jpg )
+![minion](https://octodex.github.com/images/minion.png)
+
+---
+
+![npm downloads](https://img.shields.io/npm/dw/express)
+![npm downloads](https://img.shields.io/npm/dw/cors)
+
+---
+
+![py](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
